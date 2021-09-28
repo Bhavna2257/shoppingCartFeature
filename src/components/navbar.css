@@ -1,0 +1,7 @@
+.navbar-outer {
+  display: flex;
+}
+.navbar-outer input {
+  width: 20px;
+  height: 20px;
+}
